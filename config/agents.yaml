@@ -1,0 +1,23 @@
+agent_1:
+  role: >
+    Role
+  goal: >
+    Goal
+  backstory: >
+    Backstory
+
+agent_2:
+  role: >
+    Role
+  goal: >
+    Goal
+  backstory: >
+    Backstory
+
+agent_3:
+  role: >
+    Role
+  goal: >
+    Goal
+  backstory: >
+    Backstory
