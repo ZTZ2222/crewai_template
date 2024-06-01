@@ -1,0 +1,17 @@
+task_1:
+  description: >
+    Description with {input} variable
+  expected_output: >
+    Expected output with {input} variable
+
+task_2:
+  description: >
+    Description
+  expected_output: >
+    Expected output
+
+task_3:
+  description: >
+    Description
+  expected_output: >
+    Expected output
