@@ -7,7 +7,7 @@ from langchain_openai import ChatOpenAI
 
 
 @CrewBase
-class Crew:
+class ProjectCrew:
     """Config files"""
 
     agents_config = "config/agents.yaml"
